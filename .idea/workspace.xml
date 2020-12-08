@@ -8107,26 +8107,7 @@
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/BlockDrag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Buttons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Klotski.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBoard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/OperatingSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/UndoStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/cpt/klotski/main-scene.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cpt/klotski/KlotskiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -8137,6 +8118,31 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="klotski" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="klotski" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -8188,19 +8194,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="KlotskiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="klotski.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cpt.klotski.KlotskiApplication" />
