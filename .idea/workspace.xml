@@ -8108,6 +8108,7 @@
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/system.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -8270,7 +8271,7 @@
       <workItem from="1607450770997" duration="3122000" />
       <workItem from="1607462512748" duration="4804000" />
       <workItem from="1607533995294" duration="794000" />
-      <workItem from="1607544995536" duration="4001000" />
+      <workItem from="1607544995536" duration="4757000" />
     </task>
     <servers />
   </component>
