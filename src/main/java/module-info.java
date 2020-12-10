@@ -1,10 +1,11 @@
-module klotski {
+module klotski.main {
     requires javafx.controls;
     requires javafx.fxml;
-    requires javafx.graphics;
     requires java.desktop;
     requires spring.boot;
     requires spring.boot.autoconfigure;
+    requires net.rgielen.fxweaver.core;
+    requires spring.context;
 
     opens com.cpt.klotski to javafx.fxml;
     exports com.cpt.klotski;

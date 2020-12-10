@@ -8107,7 +8107,42 @@
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/bootRunMainClassName" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/BlockDrag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Klotski.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Klotski.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/BlockDrag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Buttons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Klotski.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Klotski.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cpt/klotski/KlotskiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cpt/klotski/KlotskiApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -8147,13 +8182,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -8176,24 +8212,66 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/cpt/klotski" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2678161" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/cpt/klotski" />
+      <recent name="$PROJECT_DIR$/gradle/wrapper" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/fxml" />
       <recent name="$PROJECT_DIR$/src/main/java/com/cpt/klotski" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.KlotskiApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="klotski [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--scan" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="--module-path /Library/Java/javafx-sdk-15.0.1/lib --add-modules=javafx.controls,javafx.fxml" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="KlotskiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="klotski.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cpt.klotski.KlotskiApplication" />
@@ -8201,6 +8279,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Gradle.klotski [build]" />
+      <item itemvalue="Spring Boot.KlotskiApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.klotski [build]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -8212,6 +8299,12 @@
       <updated>1607376248368</updated>
       <workItem from="1607376250290" duration="5824000" />
       <workItem from="1607388974091" duration="1727000" />
+      <workItem from="1607450129779" duration="344000" />
+      <workItem from="1607450562536" duration="181000" />
+      <workItem from="1607450770997" duration="3122000" />
+      <workItem from="1607462512748" duration="4804000" />
+      <workItem from="1607533995294" duration="794000" />
+      <workItem from="1607544995536" duration="3802000" />
     </task>
     <servers />
   </component>
@@ -8231,45 +8324,73 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="538" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607389252708">
+    <state x="288" y="43" key="#Project_Structure" timestamp="1607561410107">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state x="538" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607389252708" />
-    <state width="1558" height="192" key="GridCell.Tab.0.bottom" timestamp="1607390088530">
+    <state x="288" y="43" key="#Project_Structure/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607561410107" />
+    <state x="-1509" y="397" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607463404039">
+      <screen x="-1891" y="59" width="1891" height="1057" />
+    </state>
+    <state x="-1509" y="397" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607463404039" />
+    <state x="538" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607545820410">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.0.bottom/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088530" />
-    <state width="1558" height="192" key="GridCell.Tab.0.center" timestamp="1607390088529">
+    <state x="538" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545820410" />
+    <state x="624" y="311" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1607450843047">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.0.center/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088529" />
-    <state width="1558" height="192" key="GridCell.Tab.0.left" timestamp="1607390088529">
+    <state x="624" y="311" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607450843047" />
+    <state width="1558" height="95" key="GridCell.Tab.0.bottom" timestamp="1607561421331">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.0.left/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088529" />
-    <state width="1558" height="192" key="GridCell.Tab.0.right" timestamp="1607390088530">
+    <state width="1849" height="188" key="GridCell.Tab.0.bottom/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993027" />
+    <state width="1558" height="95" key="GridCell.Tab.0.bottom/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607561421331" />
+    <state width="1558" height="95" key="GridCell.Tab.0.center" timestamp="1607561421330">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.0.right/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088530" />
-    <state width="1558" height="192" key="GridCell.Tab.1.bottom" timestamp="1607390088535">
+    <state width="1849" height="188" key="GridCell.Tab.0.center/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993027" />
+    <state width="1558" height="95" key="GridCell.Tab.0.center/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607561421330" />
+    <state width="1558" height="95" key="GridCell.Tab.0.left" timestamp="1607561421329">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.1.bottom/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088535" />
-    <state width="1558" height="192" key="GridCell.Tab.1.center" timestamp="1607390088532">
+    <state width="1849" height="188" key="GridCell.Tab.0.left/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993026" />
+    <state width="1558" height="95" key="GridCell.Tab.0.left/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607561421329" />
+    <state width="1558" height="95" key="GridCell.Tab.0.right" timestamp="1607561421331">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.1.center/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088532" />
-    <state width="1558" height="192" key="GridCell.Tab.1.left" timestamp="1607390088531">
+    <state width="1849" height="188" key="GridCell.Tab.0.right/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993027" />
+    <state width="1558" height="95" key="GridCell.Tab.0.right/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607561421331" />
+    <state width="1558" height="147" key="GridCell.Tab.1.bottom" timestamp="1607545991882">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.1.left/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088531" />
-    <state width="1558" height="192" key="GridCell.Tab.1.right" timestamp="1607390088533">
+    <state width="1849" height="188" key="GridCell.Tab.1.bottom/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993029" />
+    <state width="1558" height="147" key="GridCell.Tab.1.bottom/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991882" />
+    <state width="1558" height="147" key="GridCell.Tab.1.center" timestamp="1607545991881">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state width="1558" height="192" key="GridCell.Tab.1.right/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607390088533" />
-    <state x="294" y="23" key="SettingsEditor" timestamp="1607381534539">
+    <state width="1849" height="188" key="GridCell.Tab.1.center/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993028" />
+    <state width="1558" height="147" key="GridCell.Tab.1.center/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991881" />
+    <state width="1558" height="147" key="GridCell.Tab.1.left" timestamp="1607545991881">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
-    <state x="294" y="23" key="SettingsEditor/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607381534539" />
+    <state width="1849" height="188" key="GridCell.Tab.1.left/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993028" />
+    <state width="1558" height="147" key="GridCell.Tab.1.left/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991881" />
+    <state width="1558" height="147" key="GridCell.Tab.1.right" timestamp="1607545991882">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1849" height="188" key="GridCell.Tab.1.right/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993028" />
+    <state width="1558" height="147" key="GridCell.Tab.1.right/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991882" />
+    <state x="250" y="63" key="SettingsEditor" timestamp="1607450969490">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="250" y="63" key="SettingsEditor/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607450969490" />
+    <state x="771" y="216" width="586" height="490" key="find.popup" timestamp="1607534078515">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="771" y="216" width="586" height="490" key="find.popup/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607534078515" />
+    <state x="465" y="211" width="670" height="675" key="run.anything.popup" timestamp="1607545991841">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="465" y="211" width="670" height="675" key="run.anything.popup/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991841" />
   </component>
 </project>
