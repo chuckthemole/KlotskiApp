@@ -8107,15 +8107,7 @@
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -8279,7 +8271,7 @@
       <workItem from="1607450770997" duration="3122000" />
       <workItem from="1607462512748" duration="4804000" />
       <workItem from="1607533995294" duration="794000" />
-      <workItem from="1607544995536" duration="6159000" />
+      <workItem from="1607544995536" duration="6448000" />
     </task>
     <servers />
   </component>
