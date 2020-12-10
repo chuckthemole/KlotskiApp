@@ -8107,42 +8107,7 @@
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/bootRunMainClassName" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/BlockDrag.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Buttons.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Klotski.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/Klotski.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiBoard.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/cpt/klotski/KlotskiController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/BlockDrag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Buttons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Klotski.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Klotski.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cpt/klotski/KlotskiApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cpt/klotski/KlotskiApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -8223,6 +8188,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2678161" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -8304,7 +8270,7 @@
       <workItem from="1607450770997" duration="3122000" />
       <workItem from="1607462512748" duration="4804000" />
       <workItem from="1607533995294" duration="794000" />
-      <workItem from="1607544995536" duration="3802000" />
+      <workItem from="1607544995536" duration="4001000" />
     </task>
     <servers />
   </component>
@@ -8380,9 +8346,10 @@
     </state>
     <state width="1849" height="188" key="GridCell.Tab.1.right/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607467993028" />
     <state width="1558" height="147" key="GridCell.Tab.1.right/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991882" />
-    <state x="250" y="63" key="SettingsEditor" timestamp="1607450969490">
-      <screen x="0" y="23" width="1600" height="877" />
+    <state x="-1596" y="107" key="SettingsEditor" timestamp="1607567593564">
+      <screen x="-1891" y="59" width="1891" height="1057" />
     </state>
+    <state x="-1596" y="107" key="SettingsEditor/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607567593564" />
     <state x="250" y="63" key="SettingsEditor/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607450969490" />
     <state x="771" y="216" width="586" height="490" key="find.popup" timestamp="1607534078515">
       <screen x="0" y="23" width="1600" height="877" />
