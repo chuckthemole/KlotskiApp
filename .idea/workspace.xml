@@ -8107,6 +8107,7 @@
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../PlatformerPrototype/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -8270,7 +8271,7 @@
       <workItem from="1607450770997" duration="3122000" />
       <workItem from="1607462512748" duration="4804000" />
       <workItem from="1607533995294" duration="794000" />
-      <workItem from="1607544995536" duration="5023000" />
+      <workItem from="1607544995536" duration="5387000" />
     </task>
     <servers />
   </component>
@@ -8298,6 +8299,10 @@
       <screen x="-1891" y="59" width="1891" height="1057" />
     </state>
     <state x="-1509" y="397" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607463404039" />
+    <state x="-1040" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607569647158">
+      <screen x="-1891" y="59" width="1891" height="1057" />
+    </state>
+    <state x="-1040" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607569647158" />
     <state x="538" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607545820410">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
