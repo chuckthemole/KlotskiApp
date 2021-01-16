@@ -129,7 +129,7 @@
       <command value="gradle bootRun -x test" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.klotski [bootRun]">
+  <component name="RunManager" selected="Gradle.klotski [clean build]">
     <configuration name="KlotskiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cpt.klotski.KlotskiApplication" />
       <module name="klotski.main" />
@@ -192,6 +192,26 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="klotski [clean build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="KlotskiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="klotski.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cpt.klotski.KlotskiApplication" />
@@ -204,9 +224,11 @@
       <item itemvalue="Gradle.klotski [bootRun]" />
       <item itemvalue="Gradle.klotski [build]" />
       <item itemvalue="Spring Boot.KlotskiApplication" />
+      <item itemvalue="Gradle.klotski [clean build]" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.klotski [clean build]" />
         <item itemvalue="Gradle.klotski [bootRun]" />
         <item itemvalue="Gradle.klotski [build]" />
         <item itemvalue="Application.KlotskiApplication" />
