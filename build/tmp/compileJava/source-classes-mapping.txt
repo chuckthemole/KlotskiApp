@@ -31,11 +31,11 @@ com/cpt/klotski/OperatingSystem.java
 com/cpt/klotski/UndoStack.java
  com.cpt.klotski.UndoStack
  com.cpt.klotski.UndoStack$Block
-com/cpt/klotski/KlotskiController.java
- com.cpt.klotski.KlotskiController
+module-info.java
+ module-info
 com/cpt/klotski/KlotskiBoard.java
  com.cpt.klotski.KlotskiBoard
 com/cpt/klotski/KlotskiApplication.java
  com.cpt.klotski.KlotskiApplication
-module-info.java
- module-info
+com/cpt/klotski/KlotskiController.java
+ com.cpt.klotski.KlotskiController
