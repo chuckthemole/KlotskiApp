@@ -23,11 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5d16629-8de5-4c06-9745-4f55cabd97f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,8 +122,8 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="gradle build" />
-      <command value="gradle build -x test" />
       <command value="gradle bootRun -x test" />
+      <command value="gradle build -x test" />
     </option>
   </component>
   <component name="RunManager" selected="Gradle.klotski [build]">
@@ -235,7 +232,7 @@
       <workItem from="1610307277255" duration="516000" />
       <workItem from="1610655923394" duration="1867000" />
       <workItem from="1610735410178" duration="1027000" />
-      <workItem from="1610818154940" duration="710000" />
+      <workItem from="1610818154940" duration="1124000" />
     </task>
     <servers />
   </component>
@@ -275,30 +272,30 @@
       <screen x="0" y="23" width="1600" height="877" />
     </state>
     <state x="624" y="311" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607450843047" />
-    <state width="1849" height="293" key="GridCell.Tab.0.bottom" timestamp="1610819016598">
+    <state width="1849" height="293" key="GridCell.Tab.0.bottom" timestamp="1610819376723">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.bottom/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198674" />
     <state width="1558" height="357" key="GridCell.Tab.0.bottom/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688915" />
-    <state width="1849" height="293" key="GridCell.Tab.0.bottom/29.23.1891.1057@29.23.1891.1057" timestamp="1610819016598" />
-    <state width="1849" height="293" key="GridCell.Tab.0.center" timestamp="1610819016598">
+    <state width="1849" height="293" key="GridCell.Tab.0.bottom/29.23.1891.1057@29.23.1891.1057" timestamp="1610819376723" />
+    <state width="1849" height="293" key="GridCell.Tab.0.center" timestamp="1610819376722">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.center/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198673" />
     <state width="1558" height="357" key="GridCell.Tab.0.center/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688914" />
-    <state width="1849" height="293" key="GridCell.Tab.0.center/29.23.1891.1057@29.23.1891.1057" timestamp="1610819016598" />
-    <state width="1849" height="293" key="GridCell.Tab.0.left" timestamp="1610819016597">
+    <state width="1849" height="293" key="GridCell.Tab.0.center/29.23.1891.1057@29.23.1891.1057" timestamp="1610819376722" />
+    <state width="1849" height="293" key="GridCell.Tab.0.left" timestamp="1610819376722">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.left/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198672" />
     <state width="1558" height="357" key="GridCell.Tab.0.left/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688913" />
-    <state width="1849" height="293" key="GridCell.Tab.0.left/29.23.1891.1057@29.23.1891.1057" timestamp="1610819016597" />
-    <state width="1849" height="293" key="GridCell.Tab.0.right" timestamp="1610819016598">
+    <state width="1849" height="293" key="GridCell.Tab.0.left/29.23.1891.1057@29.23.1891.1057" timestamp="1610819376722" />
+    <state width="1849" height="293" key="GridCell.Tab.0.right" timestamp="1610819376722">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.right/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198673" />
     <state width="1558" height="357" key="GridCell.Tab.0.right/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688914" />
-    <state width="1849" height="293" key="GridCell.Tab.0.right/29.23.1891.1057@29.23.1891.1057" timestamp="1610819016598" />
+    <state width="1849" height="293" key="GridCell.Tab.0.right/29.23.1891.1057@29.23.1891.1057" timestamp="1610819376722" />
     <state width="1558" height="357" key="GridCell.Tab.1.bottom" timestamp="1607800688917">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
@@ -328,10 +325,10 @@
       <screen x="0" y="23" width="1600" height="877" />
     </state>
     <state x="771" y="216" width="586" height="490" key="find.popup/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607534078515" />
-    <state x="579" y="250" width="792" height="814" key="run.anything.popup" timestamp="1610819016557">
+    <state x="579" y="250" width="792" height="814" key="run.anything.popup" timestamp="1610819376703">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state x="465" y="211" width="670" height="675" key="run.anything.popup/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991841" />
-    <state x="579" y="250" width="792" height="814" key="run.anything.popup/29.23.1891.1057@29.23.1891.1057" timestamp="1610819016557" />
+    <state x="579" y="250" width="792" height="814" key="run.anything.popup/29.23.1891.1057@29.23.1891.1057" timestamp="1610819376703" />
   </component>
 </project>
