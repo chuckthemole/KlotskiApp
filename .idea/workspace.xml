@@ -23,18 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5d16629-8de5-4c06-9745-4f55cabd97f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.6.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/Greeting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/GreetingController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cpt/klotski/KlotskiApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,8 +200,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.KlotskiApplication" />
-      <item itemvalue="Gradle.klotski [build]" />
       <item itemvalue="Gradle.klotski [bootRun]" />
+      <item itemvalue="Gradle.klotski [build]" />
       <item itemvalue="Spring Boot.KlotskiApplication" />
     </list>
     <recent_temporary>
@@ -242,7 +234,8 @@
       <workItem from="1610307277255" duration="516000" />
       <workItem from="1610655923394" duration="1867000" />
       <workItem from="1610735410178" duration="1027000" />
-      <workItem from="1610818154940" duration="2977000" />
+      <workItem from="1610818154940" duration="3716000" />
+      <workItem from="1610825251203" duration="116000" />
     </task>
     <servers />
   </component>
@@ -282,30 +275,30 @@
       <screen x="0" y="23" width="1600" height="877" />
     </state>
     <state x="624" y="311" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607450843047" />
-    <state width="1849" height="498" key="GridCell.Tab.0.bottom" timestamp="1610822807275">
+    <state width="1849" height="248" key="GridCell.Tab.0.bottom" timestamp="1610824410195">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.bottom/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198674" />
     <state width="1558" height="357" key="GridCell.Tab.0.bottom/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688915" />
-    <state width="1849" height="498" key="GridCell.Tab.0.bottom/29.23.1891.1057@29.23.1891.1057" timestamp="1610822807275" />
-    <state width="1849" height="498" key="GridCell.Tab.0.center" timestamp="1610822807275">
+    <state width="1849" height="248" key="GridCell.Tab.0.bottom/29.23.1891.1057@29.23.1891.1057" timestamp="1610824410195" />
+    <state width="1849" height="248" key="GridCell.Tab.0.center" timestamp="1610824410194">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.center/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198673" />
     <state width="1558" height="357" key="GridCell.Tab.0.center/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688914" />
-    <state width="1849" height="498" key="GridCell.Tab.0.center/29.23.1891.1057@29.23.1891.1057" timestamp="1610822807275" />
-    <state width="1849" height="498" key="GridCell.Tab.0.left" timestamp="1610822807274">
+    <state width="1849" height="248" key="GridCell.Tab.0.center/29.23.1891.1057@29.23.1891.1057" timestamp="1610824410194" />
+    <state width="1849" height="248" key="GridCell.Tab.0.left" timestamp="1610824410193">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.left/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198672" />
     <state width="1558" height="357" key="GridCell.Tab.0.left/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688913" />
-    <state width="1849" height="498" key="GridCell.Tab.0.left/29.23.1891.1057@29.23.1891.1057" timestamp="1610822807274" />
-    <state width="1849" height="498" key="GridCell.Tab.0.right" timestamp="1610822807275">
+    <state width="1849" height="248" key="GridCell.Tab.0.left/29.23.1891.1057@29.23.1891.1057" timestamp="1610824410193" />
+    <state width="1849" height="248" key="GridCell.Tab.0.right" timestamp="1610824410194">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state width="1817" height="220" key="GridCell.Tab.0.right/0.23.1600.877/-1891.59.1891.1057@-1891.59.1891.1057" timestamp="1607571198673" />
     <state width="1558" height="357" key="GridCell.Tab.0.right/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607800688914" />
-    <state width="1849" height="498" key="GridCell.Tab.0.right/29.23.1891.1057@29.23.1891.1057" timestamp="1610822807275" />
+    <state width="1849" height="248" key="GridCell.Tab.0.right/29.23.1891.1057@29.23.1891.1057" timestamp="1610824410194" />
     <state width="1558" height="357" key="GridCell.Tab.1.bottom" timestamp="1607800688917">
       <screen x="0" y="23" width="1600" height="877" />
     </state>
@@ -336,10 +329,10 @@
       <screen x="0" y="23" width="1600" height="877" />
     </state>
     <state x="771" y="216" width="586" height="490" key="find.popup/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607534078515" />
-    <state x="579" y="250" width="792" height="814" key="run.anything.popup" timestamp="1610822807245">
+    <state x="579" y="250" width="792" height="814" key="run.anything.popup" timestamp="1610822854439">
       <screen x="29" y="23" width="1891" height="1057" />
     </state>
     <state x="465" y="211" width="670" height="675" key="run.anything.popup/0.23.1600.877/-1891.59.1891.1057@0.23.1600.877" timestamp="1607545991841" />
-    <state x="579" y="250" width="792" height="814" key="run.anything.popup/29.23.1891.1057@29.23.1891.1057" timestamp="1610822807245" />
+    <state x="579" y="250" width="792" height="814" key="run.anything.popup/29.23.1891.1057@29.23.1891.1057" timestamp="1610822854439" />
   </component>
 </project>
