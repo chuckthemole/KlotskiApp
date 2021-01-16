@@ -1,3 +1,25 @@
+com/cpt/klotski/KlotskiApplication.java
+ com.cpt.klotski.KlotskiApplication
+com/cpt/klotski/MouseDrag.java
+ com.cpt.klotski.MouseDrag
+com/cpt/klotski/Solver.java
+ com.cpt.klotski.Solver
+com/cpt/klotski/BlockMove.java
+ com.cpt.klotski.BlockMove
+module-info.java
+ module-info
+com/cpt/klotski/KlotskiBlock.java
+ com.cpt.klotski.KlotskiBlock
+com/cpt/klotski/OperatingSystem.java
+ com.cpt.klotski.OperatingSystem
+com/cpt/klotski/UndoStack.java
+ com.cpt.klotski.UndoStack
+ com.cpt.klotski.UndoStack$Block
+com/cpt/klotski/KlotskiBoard.java
+ com.cpt.klotski.KlotskiBoard
+com/cpt/klotski/KlotskiBoardList.java
+ com.cpt.klotski.KlotskiBoardList
+ com.cpt.klotski.KlotskiBoardList$KlotskiBoardString
 com/cpt/klotski/Klotski.java
  com.cpt.klotski.Klotski
  com.cpt.klotski.Klotski$1
@@ -12,30 +34,8 @@ com/cpt/klotski/Klotski.java
  com.cpt.klotski.Klotski$Buttons$5
  com.cpt.klotski.Klotski$GameThread
  com.cpt.klotski.Klotski$StartMenuIcon
-com/cpt/klotski/MouseDrag.java
- com.cpt.klotski.MouseDrag
-com/cpt/klotski/Solver.java
- com.cpt.klotski.Solver
-com/cpt/klotski/BlockMove.java
- com.cpt.klotski.BlockMove
-com/cpt/klotski/KlotskiBoardList.java
- com.cpt.klotski.KlotskiBoardList
- com.cpt.klotski.KlotskiBoardList$KlotskiBoardString
-com/cpt/klotski/KlotskiBlock.java
- com.cpt.klotski.KlotskiBlock
 com/cpt/klotski/Graph.java
  com.cpt.klotski.Graph
  com.cpt.klotski.Graph$GraphNode
-com/cpt/klotski/OperatingSystem.java
- com.cpt.klotski.OperatingSystem
-com/cpt/klotski/UndoStack.java
- com.cpt.klotski.UndoStack
- com.cpt.klotski.UndoStack$Block
-module-info.java
- module-info
-com/cpt/klotski/KlotskiBoard.java
- com.cpt.klotski.KlotskiBoard
-com/cpt/klotski/KlotskiApplication.java
- com.cpt.klotski.KlotskiApplication
 com/cpt/klotski/KlotskiController.java
  com.cpt.klotski.KlotskiController

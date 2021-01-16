@@ -7,10 +7,5 @@ import org.springframework.web.bind.annotation.RestController;
 
 @Component
 @FxmlView("main-scene.fxml")
-@RestController
 public class KlotskiController {
-    @RequestMapping(value = "/")
-    public String hello() {
-        return "Hello World";
-    }
 }
