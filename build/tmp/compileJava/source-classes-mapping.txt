@@ -10,11 +10,15 @@ module-info.java
  module-info
 com/cpt/klotski/KlotskiBlock.java
  com.cpt.klotski.KlotskiBlock
+com/cpt/klotski/Greeting.java
+ com.cpt.klotski.Greeting
 com/cpt/klotski/OperatingSystem.java
  com.cpt.klotski.OperatingSystem
 com/cpt/klotski/UndoStack.java
  com.cpt.klotski.UndoStack
  com.cpt.klotski.UndoStack$Block
+com/cpt/klotski/KlotskiController.java
+ com.cpt.klotski.KlotskiController
 com/cpt/klotski/KlotskiBoard.java
  com.cpt.klotski.KlotskiBoard
 com/cpt/klotski/KlotskiBoardList.java
@@ -37,5 +41,5 @@ com/cpt/klotski/Klotski.java
 com/cpt/klotski/Graph.java
  com.cpt.klotski.Graph
  com.cpt.klotski.Graph$GraphNode
-com/cpt/klotski/KlotskiController.java
- com.cpt.klotski.KlotskiController
+com/cpt/klotski/GreetingController.java
+ com.cpt.klotski.GreetingController

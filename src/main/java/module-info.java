@@ -6,6 +6,7 @@ module klotski.main {
     requires spring.boot.autoconfigure;
     requires net.rgielen.fxweaver.core;
     requires spring.context;
+    requires spring.web;
 
     opens com.cpt.klotski to javafx.fxml;
     exports com.cpt.klotski;
