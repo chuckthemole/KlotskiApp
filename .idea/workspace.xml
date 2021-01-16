@@ -126,7 +126,7 @@
       <command value="gradle build -x test" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.klotski [bootRun]">
+  <component name="RunManager" selected="Gradle.klotski [build]">
     <configuration name="KlotskiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cpt.klotski.KlotskiApplication" />
       <module name="klotski.main" />
